@@ -2,11 +2,11 @@
 ### Hi there, I'm Monica Avagyan
 
 
-<img align="right"  margin-top:0 src="https://github.com/monicaavagyan/IamMonicaAvagyan/blob/master/Image/img.jpg" width="350" height="500"/>
+<img align="right" src="https://github.com/monicaavagyan/IamMonicaAvagyan/blob/master/Image/img.jpg" width="350" height="500"/>
 
 ### I'm a Student   !!
 
-- 🌱 I am currently studying for a Bachelor of Computer Science.
+- 🌱 I am currently studying for a Bachelor of Computer Science at ASUE.
 - 📫 How to reach me: mail me @ avagyanmonika3@gmail.com
 - ⚡ Fun fact: I love 🐵s and nail art.
 
@@ -30,3 +30,4 @@ CheckOut my personal or Blog website  :  [Finding Data](https://monicaavagyan.gi
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/javascript.png"/>](js)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>](sql)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
+[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000"/>](adobeillustrator)
