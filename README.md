@@ -8,7 +8,7 @@
 
 -    I am currently studying for a Bachelor of Computer Science at ASUE.
 -    I am diving deep into the exciting worlds of machine learning 🤖, artificial intelligence 🧠 and data science 📊.
-- 📫 Reach me through mail: @ avagyanmonika3@gmail.com
+- 📫 Reach me through mail:  avagyanmonika3@gmail.com
 - ⚡ Fun fact: I love 🐵s and nail art.
 
 CheckOut my personal or Blog website  :  [Finding Data](https://monicaavagyan.github.io/ITblog/)
