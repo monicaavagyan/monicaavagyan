@@ -6,8 +6,9 @@
 
 ### I'm a Student   !!
 
-- 🌱 I am currently studying for a Bachelor of Computer Science at ASUE.
-- 📫 How to reach me: mail me @ avagyanmonika3@gmail.com
+-    I am currently studying for a Bachelor of Computer Science at ASUE.
+-    I am diving deep into the exciting worlds of machine learning 🤖, artificial intelligence 🧠 and data science 📊.
+- 📫 Reach me through mail: @ avagyanmonika3@gmail.com
 - ⚡ Fun fact: I love 🐵s and nail art.
 
 CheckOut my personal or Blog website  :  [Finding Data](https://monicaavagyan.github.io/ITblog/)
@@ -30,5 +31,5 @@ CheckOut my personal or Blog website  :  [Finding Data](https://monicaavagyan.gi
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/javascript.png"/>](js)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>](sql)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
-[<img align="left" alt="WordPress" width="33px" src="![alt text](image.png)"/>](wordpress)
+
 
