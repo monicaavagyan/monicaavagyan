@@ -1,5 +1,5 @@
 
-### Hi there, I'm Monica Avagyan  🇦🇲
+### Hi there, I'm Monica Avagyan 
 
 
 <img align="right" src="https://github.com/monicaavagyan/IamMonicaAvagyan/blob/master/Image/img.jpg" width="350" height="500"/>
