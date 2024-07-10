@@ -1,4 +1,3 @@
-[<img align="right" alt="sumit" width="34px" src="https://img.icons8.com/bubbles/50/000000/like.png"/>](https://imsumitkumar.github.io/sumit/)
 
 ### Hi there, I'm Monica Avagyan
 
