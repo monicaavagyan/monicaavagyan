@@ -30,4 +30,5 @@ CheckOut my personal or Blog website  :  [Finding Data](https://monicaavagyan.gi
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/javascript.png"/>](js)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/color/48/000000/sql.png"/>](sql)
 [<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>](giithub)
-[<img align="left" alt="sumit" width="33px" src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000"/>](adobeillustrator)
+[<img align="left" alt="WordPress" width="33px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>](wordpress)
+
