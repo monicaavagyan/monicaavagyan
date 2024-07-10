@@ -2,9 +2,7 @@
 ### Hi there, I'm Monica Avagyan
 
 
-<span align="right" style="margin-top:0;">
-    <img src="https://github.com/monicaavagyan/IamMonicaAvagyan/blob/master/Image/img.jpg" width="350" height="500" />
-</span>
+<img align="right"  style="margin-top:0;" src="https://github.com/monicaavagyan/IamMonicaAvagyan/blob/master/Image/img.jpg" width="350" height="500"/>
 
 ### I'm a Student   !!
 
