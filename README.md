@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/monicaavagyan/IamMonicaAvagyan/blob/master/Image/img.jpg" width="350" height="500"/>
 
-### I'm a Student   !!
+
 
 -    I am currently studying for a Bachelor of Computer Science at ASUE.
 -    I am diving deep into the exciting worlds of machine learning 🤖, artificial intelligence 🧠 and data science 📊.
