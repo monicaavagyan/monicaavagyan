@@ -11,7 +11,7 @@
 - 📫 Reach me through mail:  avagyanmonika3@gmail.com
 - ⚡ Fun fact: I love 🐵s and nail art.
 
-CheckOut my personal or Blog website  :  [Finding Data](https://monicaavagyan.github.io/ITblog/)
+CheckOut my personal or Blog website  :  [Click here!](https://monicaavagyan.github.io/ITblog/)
 
 ### Connect with me :
 
