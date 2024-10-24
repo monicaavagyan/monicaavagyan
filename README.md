@@ -20,7 +20,9 @@
 
 
 <br />
-[![](https://visitcount.itsvg.in/api?id=avagyanmonica&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=avagyanmonica&label=Profile%20Views&color=10&icon=0&pretty=false" />
+</a>
 <br />
 
 ### Languages and Tools:
