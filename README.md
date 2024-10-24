@@ -20,6 +20,7 @@
 
 
 <br />
+[![](https://visitcount.itsvg.in/api?id=avagyanmonica&label=Profile%20Views&color=10&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <br />
 
 ### Languages and Tools:
